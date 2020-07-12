@@ -1,0 +1,46 @@
+[{
+	"Id": 1,
+	"Question": "Apa itu Generasi Berencana (GenRe) ?",
+	"Answer": 2,
+	"Answer1": "Generasi Penyuluh Keluarga Berencana",
+	"Answer2": "Remaja yang memiliki perencanaan dalam menyiapkan 5 transisi kehidupan",
+	"Answer3": "Remaja berusia 10 – 24 tahun dan belum menikah",
+	"Answer4": "Wadah Berkumpul para Remaja",
+	"Active": true
+}, {
+	"Id": 2,
+	"Question": "PIK R adalah singkatan dari",
+	"Answer": 4,
+	"Answer1": "Pusat Informasi Komunikasi Remaja",
+	"Answer2": "Pusat Informasi Komputerisasi Remaja",
+	"Answer3": "Pusat Informasi Kontrofersi Remaja",
+	"Answer4": "Pusat Informasi Konseling Remaja",
+	"Active": true
+}, {
+	"Id": 3,
+	"Question": "BKR merupakan singkatan dari",
+	"Answer": 1,
+	"Answer1": "Bina Keluarga Remaja",
+	"Answer2": "Bina Ketahanan remaja",
+	"Answer3": "Bina Komunikasi Remaja",
+	"Answer4": "Bina konseling Remaja",
+	"Active": true
+}, {
+	"Id": 4,
+	"Question": "Tiga permasalahan remaja yang harus dihindari (Triad GenRe)?",
+	"Answer": 2,
+	"Answer1": "NAPZA, Bullying, Aborsi",
+	"Answer2": "Pernikahan dini, Seks Pra Nikah, NAPZA",
+	"Answer3": "Kehamilan tidak diinginkan, Judi, Aborsi",
+	"Answer4": "NAPZA, Aborsi, Adiksi Game",
+	"Active": true
+}, {
+	"Id": 5,
+	"Question": "Yang tidak termasuk penyakit menular seksual yaitu",
+	"Answer": 3,
+	"Answer1": "Klamidia",
+	"Answer2": "Raja Singa",
+	"Answer3": "Kanker Serviks",
+	"Answer4": "Sifilis",
+	"Active": true
+}]
